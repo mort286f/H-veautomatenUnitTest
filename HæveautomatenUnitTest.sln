@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HæveautomatenUnitTest", "HæveautomatenUnitTest.csproj", "{305698A1-1AD5-43CC-BED5-E7B69E7AADBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HæveautomatenUnitTest.Tests", "..\HæveautomatenUnitTest.Tests\HæveautomatenUnitTest.Tests.csproj", "{6F9B98AE-891A-4086-9D2F-4EEC2A572FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305698A1-1AD5-43CC-BED5-E7B69E7AADBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305698A1-1AD5-43CC-BED5-E7B69E7AADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305698A1-1AD5-43CC-BED5-E7B69E7AADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305698A1-1AD5-43CC-BED5-E7B69E7AADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9B98AE-891A-4086-9D2F-4EEC2A572FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9B98AE-891A-4086-9D2F-4EEC2A572FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9B98AE-891A-4086-9D2F-4EEC2A572FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9B98AE-891A-4086-9D2F-4EEC2A572FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C263F0B1-B0BA-48B5-91B3-F6627B216ED7}
+	EndGlobalSection
+EndGlobal
